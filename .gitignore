@@ -97,3 +97,9 @@ yarn-error.log
 # JetBrains Rider
 # .idea/
 # RiderProjects/
+.vs/
+*.vsix
+*.user
+*.userosscache
+*.suo
+*.cache
